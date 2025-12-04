@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -10,9 +9,6 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
-=======
-  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
->>>>>>> 6592a7c (feat: Desenvolvimento das aplicações GatewayAPI e LoginAPI)
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
